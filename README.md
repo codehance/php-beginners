@@ -1,1 +1,1 @@
-# php-beginners
+# PHP Beginners Course 1
