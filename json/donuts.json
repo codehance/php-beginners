@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Glazed Donut",
+    "price": "9.00",
+    "donutId": 493295844,
+    "image": "images\/glazed.png"
+  },
+  {
+    "name": "Rainbow Donut",
+    "price": "8.00",
+    "donutId": 1359402134,
+    "image": "images\/rainbow_sprinkles.png"
+  },
+  {
+    "name": "Sugar Donut",
+    "price": "1.00",
+    "donutId": 693058297,
+    "image": "images\/sugar.png"
+  },
+  {
+    "name": "Chocolate Donut",
+    "price": "8.00",
+    "donutId": 373122366,
+    "image": "images\/chocolate.png"
+  },
+  {
+    "name": "Jam Donut",
+    "price": "5.00",
+    "donutId": 1585838846,
+    "image": "images\/jam.png"
+  },
+  {
+    "name": "Box Set",
+    "price": "12.00",
+    "donutId": 2052299778,
+    "image": "images\/box_set.png"
+  }
+]
